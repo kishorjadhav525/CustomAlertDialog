@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CustomAlertDialog</string>
+    <string name="tvs"> Click </string>
+    <string name="custom_alert_dialog">custom alert dialog</string>
+    <string name="alert">alert</string>
+    <string name="expended_list_view">expended_list_view</string>
+</resources>
